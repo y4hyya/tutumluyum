@@ -11,12 +11,13 @@
     "web": "expo start --web",
     "lint": "eslint .",
     "typecheck": "tsc --noEmit && tsc -p tsconfig.node.json",
-    "test": "jest --passWithNoTests",
+    "test": "jest",
     "icons": "node scripts/generate-icon.mjs",
     "pdfjs:vendor": "node scripts/vendor-pdfjs.mjs",
     "extractor:build": "node scripts/build-extractor.mjs",
     "anonymize": "tsx scripts/anonymize.ts",
-    "prepare": "git config core.hooksPath .githooks"
+    "prepare": "git config core.hooksPath .githooks",
+    "test:coverage": "jest --coverage"
   },
   "dependencies": {
     "expo": "~57.0.8",

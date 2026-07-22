@@ -16,4 +16,14 @@ module.exports = {
   transform: {
     '^.+\\.tsx?$': ['ts-jest', { tsconfig: 'tsconfig.node.json' }],
   },
+  // Business-critical modules carry an enforced coverage floor (>=90%).
+  collectCoverageFrom: [
+    'src/analysis/**/*.ts',
+    'src/parsers/**/*.ts',
+    '!src/parsers/index.ts', // re-export barrel
+  ],
+  coverageThreshold: {
+    './src/analysis/': { statements: 90, lines: 90, functions: 90, branches: 85 },
+    './src/parsers/': { statements: 90, lines: 90, functions: 90, branches: 85 },
+  },
 };

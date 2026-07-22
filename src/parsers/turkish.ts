@@ -28,7 +28,7 @@ export function parseTurkishAmount(raw: string): Kurus | null {
   s = s.replace(CURRENCY_TOKENS, '').trim();
 
   if (s.endsWith('-')) {
-    negative = !negative ? true : negative;
+    negative = true;
     s = s.slice(0, -1).trim();
   }
   if (s.startsWith('-')) {

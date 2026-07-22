@@ -3,6 +3,7 @@ import { TextItem } from '@/pdf/types';
 import {
   clearAdaptersForTest,
   detectAdapter,
+  getAdapters,
   registerAdapter,
   requireAdapter,
   supportedBankNames,
@@ -55,6 +56,7 @@ describe('adapter registry', () => {
 
     expect(detectAdapter([textItem('xx BBB xx')])?.code).toBe('BANK_B');
     expect(detectAdapter([textItem('nothing')])).toBeNull();
+    expect(getAdapters().map((a) => a.code)).toEqual(['BANK_A', 'BANK_B']);
   });
 
   it('rejects duplicate registrations', () => {

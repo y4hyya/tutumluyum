@@ -20,7 +20,7 @@ export const borders = {
 
 /**
  * Hard offset shadow: an absolutely positioned solid ink View shifted by
- * (+offset, +offset) behind the element. shadowRadius/elevation/blur are
- * banned repo-wide.
+ * (+offset, +offset) behind the element. Soft/blurred/elevated shadows are
+ * banned repo-wide — see src/__tests__/brutalism.test.ts.
  */
 export const shadowOffset = 4;

@@ -49,5 +49,7 @@ describe('normalizeMerchant', () => {
 
   it('never returns empty for digit-only descriptions', () => {
     expect(normalizeMerchant('123456789').length).toBeGreaterThan(0);
+    expect(normalizeMerchant('999 8888 7777777').length).toBeGreaterThan(0);
+    expect(normalizeMerchant('***').length).toBe(0); // pure punctuation: honest empty
   });
 });

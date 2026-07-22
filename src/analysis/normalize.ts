@@ -95,7 +95,6 @@ export function normalizeMerchant(rawDescription: string): string {
     }
   }
 
-  const key = tokens.join(' ').trim();
-  // Never return empty: fall back to the folded original.
-  return key.length > 0 ? key : folded.replace(/[^A-Z0-9]+/g, ' ').trim();
+  // tokens is non-empty here (the strip loops always leave at least one).
+  return tokens.join(' ').trim();
 }
