@@ -1,0 +1,142 @@
+<!doctype html>
+<!--
+  Template for the in-WebView PDF text extractor. `npm run extractor:build`
+  inlines the vendored pdf.js library + worker at the two INLINE markers and
+  writes the self-contained extractor.html that ships in the app bundle.
+
+  Why inlined: Expo assets get hashed filenames at runtime, so relative
+  <script src> references between bundled assets would break. A single
+  self-contained page needs no sibling files, no origin games, no network.
+
+  Why the worker is loaded as a plain script: spawning a real Web Worker from
+  a file:// page is blocked on Android. Loading pdf.worker.min.js via <script>
+  defines globalThis.pdfjsWorker, which pdf.js detects and uses on the main
+  thread ("fake worker") without ever fetching workerSrc.
+
+  Protocol (see src/pdf/protocol.ts for the typed mirror):
+    RN -> page: __pdfExtractor.reset() / .chunk(base64Part) / .start(password?)
+    page -> RN: {type:'ready'} | {type:'items',items:[...]} |
+                {type:'done',pageCount,itemCount} |
+                {type:'error',code,message?}
+-->
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>pdf extractor</title>
+  </head>
+  <body>
+    <script>
+      /*__INLINE_PDFJS_LIB__*/
+    </script>
+    <script>
+      /*__INLINE_PDFJS_WORKER__*/
+    </script>
+    <script>
+      (function () {
+        'use strict';
+
+        var ITEM_CHUNK = 400;
+
+        function post(msg) {
+          if (window.ReactNativeWebView) {
+            window.ReactNativeWebView.postMessage(JSON.stringify(msg));
+          }
+        }
+
+        function round2(n) {
+          return Math.round(n * 100) / 100;
+        }
+
+        function fail(e) {
+          if (e && e.name === 'PasswordException') {
+            // pdf.js codes: 1 = NEED_PASSWORD, 2 = INCORRECT_PASSWORD
+            post({ type: 'error', code: e.code === 2 ? 'wrong-password' : 'password-required' });
+          } else if (e && e.name === 'InvalidPDFException') {
+            post({ type: 'error', code: 'invalid-pdf', message: String(e.message || '') });
+          } else {
+            post({ type: 'error', code: 'extract-failed', message: String((e && e.message) || e) });
+          }
+        }
+
+        var base64Parts = [];
+
+        async function extract(doc) {
+          var itemCount = 0;
+          for (var p = 1; p <= doc.numPages; p++) {
+            var page = await doc.getPage(p);
+            var viewport = page.getViewport({ scale: 1 });
+            var content = await page.getTextContent();
+            var out = [];
+            for (var i = 0; i < content.items.length; i++) {
+              var it = content.items[i];
+              if (typeof it.str !== 'string' || it.str.length === 0) continue;
+              var t = it.transform;
+              out.push({
+                str: it.str,
+                x: round2(t[4]),
+                // pdf user space is bottom-left origin; parsers want top-down
+                y: round2(viewport.height - t[5]),
+                width: round2(it.width),
+                height: round2(it.height),
+                pageIndex: p - 1,
+                fontName: it.fontName || '',
+                pageWidth: round2(viewport.width),
+                pageHeight: round2(viewport.height),
+              });
+              if (out.length >= ITEM_CHUNK) {
+                post({ type: 'items', items: out });
+                itemCount += out.length;
+                out = [];
+              }
+            }
+            if (out.length > 0) {
+              post({ type: 'items', items: out });
+              itemCount += out.length;
+            }
+            page.cleanup();
+          }
+          post({ type: 'done', pageCount: doc.numPages, itemCount: itemCount });
+        }
+
+        window.__pdfExtractor = {
+          reset: function () {
+            base64Parts = [];
+          },
+          chunk: function (part) {
+            base64Parts.push(part);
+          },
+          start: function (password) {
+            var b64 = base64Parts.join('');
+            base64Parts = [];
+            try {
+              var bin = atob(b64);
+              b64 = null;
+              var bytes = new Uint8Array(bin.length);
+              for (var i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+              bin = null;
+              var options = {
+                data: bytes,
+                isEvalSupported: false,
+                disableFontFace: true,
+              };
+              if (password) options.password = password;
+              pdfjsLib
+                .getDocument(options)
+                .promise.then(function (doc) {
+                  return extract(doc).finally(function () {
+                    doc.destroy();
+                  });
+                })
+                .catch(fail);
+            } catch (e) {
+              fail(e);
+            }
+          },
+        };
+
+        post({ type: 'ready' });
+      })();
+    </script>
+  </body>
+</html>

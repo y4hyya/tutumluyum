@@ -4,6 +4,7 @@ import * as SplashScreen from 'expo-splash-screen';
 import { useEffect } from 'react';
 import { StatusBar } from 'expo-status-bar';
 
+import { PdfExtractorHost } from '@/pdf/PdfExtractorHost';
 import { colors, fontFiles } from '@/theme';
 
 SplashScreen.preventAutoHideAsync();
@@ -30,6 +31,7 @@ export default function RootLayout() {
           contentStyle: { backgroundColor: colors.paper },
         }}
       />
+      <PdfExtractorHost />
     </>
   );
 }
