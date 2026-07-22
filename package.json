@@ -10,7 +10,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "eslint .",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "tsc --noEmit && tsc -p tsconfig.node.json",
     "test": "jest --passWithNoTests",
     "icons": "node scripts/generate-icon.mjs",
     "pdfjs:vendor": "node scripts/vendor-pdfjs.mjs",
