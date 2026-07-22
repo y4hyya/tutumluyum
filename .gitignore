@@ -39,3 +39,19 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# tests
+coverage/
+
+# Claude Code local settings
+.claude/
+
+# ------------------------------------------------------------------
+# PRIVACY: real credit card statements live in fixtures/private/ and
+# must NEVER be committed. The pre-commit hook in .githooks/ enforces
+# the same rule. Only anonymized fixtures under fixtures/public/ are
+# allowed into the repo.
+# ------------------------------------------------------------------
+fixtures/private/*
+!fixtures/private/.gitkeep
+*.pdf

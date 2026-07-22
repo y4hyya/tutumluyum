@@ -1,0 +1,18 @@
+#!/bin/sh
+# Privacy guard: real credit card statements must never enter the repository.
+# Blocks any staged file under fixtures/private/ and any staged .pdf anywhere.
+
+staged=$(git diff --cached --name-only --diff-filter=ACMR)
+bad=$(printf '%s\n' "$staged" | grep -Ei '(^|/)fixtures/private/|\.pdf$' | grep -v '^fixtures/private/\.gitkeep$')
+
+if [ -n "$bad" ]; then
+  echo "" >&2
+  echo "COMMIT BLOCKED — real statement data is staged:" >&2
+  printf '  %s\n' $bad >&2
+  echo "" >&2
+  echo "fixtures/private/ and *.pdf are never committed." >&2
+  echo "Use 'npm run anonymize' to produce a safe fixture in fixtures/public/." >&2
+  exit 1
+fi
+
+exit 0
