@@ -15,6 +15,11 @@ const LEAK_PATTERNS: { name: string; pattern: RegExp }[] = [
   { name: 'TCKN (11 digits, nonzero start)', pattern: /(?<!\d)[1-9]\d{10}(?!\d)/ },
   { name: 'IBAN with digits', pattern: /TR\d{24}/i },
   { name: '10+ digit run (account/reference)', pattern: /\d{10,}/ },
+  // Stale pre-scrub fixture generations (e.g. iCloud "name 2.txt" conflict
+  // copies) leaked these shapes once — never again:
+  { name: 'spaced single-digit run (payment barcode)', pattern: /(?:\d ){10,}\d/ },
+  { name: 'digits hugging a mask (bank-masked customer no)', pattern: /[1-9]\d*\*{3,}\d*[1-9]/ },
+  { name: 'postal code + city line', pattern: /(?<!\d)\d{5} (?:ADANA|ANKARA|ISTANBUL|İSTANBUL|IZMIR|İZMİR)/ },
 ];
 
 describe('fixtures/public privacy guard', () => {
