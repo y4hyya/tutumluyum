@@ -1,0 +1,807 @@
+{
+  "bankCode": "ISBANK",
+  "cardLast4": "0002",
+  "statementDate": "2026-06-10",
+  "dueDate": "2026-06-22",
+  "periodStart": null,
+  "periodEnd": "2026-06-10",
+  "totalAmount": 916274,
+  "previousBalance": 410720,
+  "minPayment": 183255,
+  "currency": "TRY",
+  "transactions": [
+    {
+      "txnDate": "2026-05-11",
+      "postingDate": null,
+      "rawDescription": "X CORP. PAID FEATURES ABOUT.X.COM TXUS",
+      "amount": 15000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-12",
+      "postingDate": null,
+      "rawDescription": "TRENDYOL YEMEK ?STANBUL TR",
+      "amount": 29499,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-12",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -140000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-12",
+      "postingDate": null,
+      "rawDescription": "TKPAY/AJET HAVA TASIMAC ISTANBUL TR",
+      "amount": 140355,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 5000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -60000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "6905 ANKARA CANKAYA ODT ANKARA TR",
+      "amount": 7000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "TAKSİDE POS İSTANBUL TR",
+      "amount": 24413,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -210720,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -184800,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "ZARA KENTPARK AVM ANKARA TR",
+      "amount": 666500,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -550000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "MARKET SPOR MLZ.SAN.LTD ANKARA TR",
+      "amount": 719900,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -50000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -20000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "SAHA MAGAZACILIK ANKARA TR",
+      "amount": 759800,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "PAYİNALL/DATAJIRO YA ANKARA TR",
+      "amount": 22500,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "TRENDYOL YEMEK ISTANBUL TR",
+      "amount": 39499,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-13",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -88000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "SIS GIDA 2.YURT ANKARA TR",
+      "amount": 4000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 6000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "APPLE.COM/BILL APPLE.COM/BIL IE",
+      "amount": 1799,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -50000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "VİTAMİN ALİ ANKARA TR",
+      "amount": 11800,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "KAFFINA KAHVE VE RESTOR ANKARA TR",
+      "amount": 15500,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -10000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "TT MOBIL ISTANBUL TR",
+      "amount": 76200,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -140000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "APAZ GIDA-MESRUTIYET CA ANKARA TR",
+      "amount": 74000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-14",
+      "postingDate": null,
+      "rawDescription": "VİTAMİN ALİ ANKARA TR",
+      "amount": 22600,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 6000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 3000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -100000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "TAKSİDE POS İSTANBUL TR",
+      "amount": 24750,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -100000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -100000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "STAR ERKEK KUAFÖRÜ ANKARA TR",
+      "amount": 250000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "KAFE 9 ANKARA TR",
+      "amount": 22500,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-15",
+      "postingDate": null,
+      "rawDescription": "EGO KART SANAL ANKARA TU",
+      "amount": 20000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-16",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -10000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-16",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -12100,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-16",
+      "postingDate": null,
+      "rawDescription": "AYT KAFE ADANA TR",
+      "amount": 24000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-19",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -184000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-20",
+      "postingDate": null,
+      "rawDescription": "TKPAY/AJET HAVA TASIMAC ISTANBUL TR",
+      "amount": 140279,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-20",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -600000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-20",
+      "postingDate": null,
+      "rawDescription": "PAYCELL/ILSMUSIC İSTANBUL TR",
+      "amount": 604800,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-20",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -25000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-20",
+      "postingDate": null,
+      "rawDescription": "MOKA UNITED/YEMEKSEPETI ISTANBUL TR",
+      "amount": 70499,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-20",
+      "postingDate": null,
+      "rawDescription": "NIKE RETAIL TK BOLU TR",
+      "amount": 115283,
+      "currency": "TRY",
+      "installmentNo": 2,
+      "installmentTotal": 3
+    },
+    {
+      "txnDate": "2026-05-21",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -30000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-24",
+      "postingDate": null,
+      "rawDescription": "SPOTİFY STOCKHOLM SE",
+      "amount": 5500,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-25",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -100000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-25",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -100000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-25",
+      "postingDate": null,
+      "rawDescription": "WWW.MEDIAMARKT.COM.TR ISTANBUL TR",
+      "amount": 56581,
+      "currency": "TRY",
+      "installmentNo": 3,
+      "installmentTotal": 3
+    },
+    {
+      "txnDate": "2026-05-26",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -50000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-26",
+      "postingDate": null,
+      "rawDescription": "AIRBNB * HM9PDDN92X 800-621-2405 GB",
+      "amount": 1726160,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-26",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -148000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-26",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -1550000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-31",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -34000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-31",
+      "postingDate": null,
+      "rawDescription": "ARSLAN DURAN İSTANBUL TR",
+      "amount": 22672,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-05-31",
+      "postingDate": null,
+      "rawDescription": "CARREFOURSA ATASEHIR HI ISTANBUL TR",
+      "amount": 38750,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-01",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -32000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-01",
+      "postingDate": null,
+      "rawDescription": "OVERBOMONTI YIYECEK ICEISTANBUL TU",
+      "amount": 29000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-01",
+      "postingDate": null,
+      "rawDescription": "BALYAN KURUYEMİŞ İSTANBUL TR",
+      "amount": 16500,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-06",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -3917,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-06",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 1500,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-06",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 1500,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-06",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 2000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-07",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -9000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-07",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -958,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-07",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -2038,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-07",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 6000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-07",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 6000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-07",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 800,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "APPLE.COM/BILL APPLE.COM/BIL IE",
+      "amount": 199999,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -500000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 3000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "OTOMATCI ANKARA OTOMAT ANKARA TR",
+      "amount": 1000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "6905 ANKARA CANKAYA ODT ANKARA TR",
+      "amount": 11790,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "TRENDYOL YEMEK ?STANBUL TR",
+      "amount": 41850,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-09",
+      "postingDate": null,
+      "rawDescription": "MOKA UNITED/YEMEKSEPETI ISTANBUL TR",
+      "amount": 32490,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-09",
+      "postingDate": null,
+      "rawDescription": "0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF",
+      "amount": -600000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-09",
+      "postingDate": null,
+      "rawDescription": "ARABİCA OTDÜ ÇARŞI ANKARA TR",
+      "amount": 9000,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-09",
+      "postingDate": null,
+      "rawDescription": "SOK - O.D.T.U. ANKARA TR",
+      "amount": 8200,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-09",
+      "postingDate": null,
+      "rawDescription": "IYZICO/AMAZON TURKEY PE ISTANBUL TR",
+      "amount": 92322,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "APPLE.COM/BILL APPLE.COM/BIL IE",
+      "amount": 21999,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "APPLE.COM/BILL APPLE.COM/BIL IE",
+      "amount": 12999,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    },
+    {
+      "txnDate": "2026-06-08",
+      "postingDate": null,
+      "rawDescription": "APPLE.COM/BILL APPLE.COM/BIL IE",
+      "amount": 29999,
+      "currency": "TRY",
+      "installmentNo": null,
+      "installmentTotal": null
+    }
+  ],
+  "unparsedLines": []
+}

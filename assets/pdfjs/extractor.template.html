@@ -71,12 +71,19 @@
             for (var i = 0; i < content.items.length; i++) {
               var it = content.items[i];
               if (typeof it.str !== 'string' || it.str.length === 0) continue;
-              var t = it.transform;
+              // Drop control-character-only runs (statement edge barcodes
+              // map to C0/C1 codes; zero text value, varies per document).
+              if (/^[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]+$/.test(it.str)) continue;
+              // Device space via the viewport transform: handles top-down y
+              // AND page /Rotate (İş Bankası ships 180°-rotated statements).
+              var m = pdfjsLib.Util.transform(viewport.transform, it.transform);
+              // When the x-axis is flipped (rot 180) the matrix origin is the
+              // run's RIGHT edge; shift back to the left edge.
+              var left = m[0] < 0 ? m[4] - it.width : m[4];
               out.push({
                 str: it.str,
-                x: round2(t[4]),
-                // pdf user space is bottom-left origin; parsers want top-down
-                y: round2(viewport.height - t[5]),
+                x: round2(left),
+                y: round2(m[5]),
                 width: round2(it.width),
                 height: round2(it.height),
                 pageIndex: p - 1,

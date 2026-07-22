@@ -44,7 +44,13 @@ export function reconcile(
   return { ok: true, computedTotal, expectedTotal, deltaKurus };
 }
 
-/** Convenience: reconcile a full ParsedStatement. */
+/**
+ * Reconcile a full ParsedStatement. The printed total includes the carry-over
+ * from the previous statement, so the target for Σ(transactions) is
+ * totalAmount - previousBalance.
+ */
 export function reconcileStatement(parsed: ParsedStatement, toleranceKurus: Kurus = 1): ReconcileResult {
-  return reconcile(parsed.transactions, parsed.totalAmount, toleranceKurus);
+  const expected =
+    parsed.totalAmount === null ? null : parsed.totalAmount - (parsed.previousBalance ?? 0);
+  return reconcile(parsed.transactions, expected, toleranceKurus);
 }

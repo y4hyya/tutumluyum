@@ -1,0 +1,181 @@
+p1 y   88.2 | KREDİ KARTI HESAP ÖZETİ
+p1 y  116.3 | Müşteri Numarası 00*****00
+p1 y  127.3 | Kart Numarası: 424242 ******** 0002
+p1 y  138.3 | ÖĞRENCİ MAXIMUM GENÇ VİSA Hesap Özetiniz
+p1 y  153.8 | Hesap Kesim Tarihi: 10.07.2026
+p1 y  156.0 | XXX XXXXX XXXX XXXXX
+p1 y  165.6 | Son Ödeme Tarihi: 20.07.2026
+p1 y  177.5 | Hesap Özeti Borcu: +43.277,54 TL
+p1 y  183.3 | XXXXXXX XXXXXXXXX XXXXX XXXX XXXXXX
+p1 y  189.3 | Ödenmesi Gereken Asgari Tutar: +**.**0,00 TL
+p1 y  194.0 | XXXXXXX XXXXXXXXX XXXXX XXXX XXXXXX X
+p1 y  200.0 | Bir Sonraki Hesap Kesim Tarihi: 10.08.2026
+p1 y  204.7 | XXX XXX X XX XX X XXX X XXXXXX XX XXXXXXX
+p1 y  210.7 | Bir Sonraki Son Ödeme Tarihi: 20.08.2026
+p1 y  215.4 | XXXXX XXXXX
+p1 y  221.4 | Toplam MaxiPuan: 628,36 TL
+p1 y  241.2 | Son Ödeme Tarihi: 20/07/2026
+p1 y  251.4 | ! V
+p1 y  275.0 | Alışveriş Nakit Çekme Alışveriş Gecikme Nakit Gecikme
+p1 y  286.9 | Faiz Oranı Faiz Oranı Faizi Oranı Faiz Oranı
+p1 y  306.4 | Aylık
+p1 y  309.3 | %3,25 %4,25 %3,55 %4,55
+p1 y  327.8 | Yıllık
+p1 y  330.7 | %39,00 %51,00 %42,60 %54,60
+p1 y  354.7 | İŞLEM
+p1 y  365.4 | TARİHİ AÇIKLAMA TUTAR TAKSİT BİLGİSİ MAXIPUAN
+p1 y  378.1 | ******** BİR ÖNCEKİ HESAP ÖZETİ BAKİYENİZ *** 9.162,74
+p1 y  387.6 | 10/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 13,00
+p1 y  399.2 | 11/06/2026 MOKA UNITED/YEMEKSEPETI ISTANBUL TR 300,00 0,03
+p1 y  410.8 | 11/06/2026 X CORP. PAID FEATURES ABOUT.X.COM TXUS 150,00
+p1 y  422.5 | 12/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p1 y  434.1 | 13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 10,00
+p1 y  445.7 | 13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p1 y  457.3 | 13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 60,00
+p1 y  468.9 | 13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p1 y  480.6 | 13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 15,00
+p1 y  492.2 | 14/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -500,00
+p1 y  503.8 | 14/06/2026 TRENDYOL YEMEK ISTANBUL TR 286,99
+p1 y  515.4 | 14/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p1 y  527.1 | 15/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -8.662,74
+p1 y  538.7 | 15/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p1 y  550.3 | 15/06/2026 TRENDYOL YEMEK ISTANBUL TR 374,99
+p1 y  561.9 | 16/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 60,00
+p1 y  573.5 | 16/06/2026 KAFE 9 ANKARA TR 275,00
+p1 y  585.2 | 16/06/2026 KAMPUS KIRTASIYE VE HED ANKARA TR 229,00
+p1 y  596.8 | 16/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p1 y  608.4 | 16/06/2026 SIS GIDA TUR.ODTU 8.YUR ANKARA TR 410,00
+p1 y  620.0 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 60,00
+p1 y  631.7 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 60,00
+p1 y  643.3 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p1 y  654.9 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 35,00
+p1 y  666.5 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 50,00
+p1 y  678.1 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p1 y  680.3 | Belge Numarası: 143 - #########
+p1 y  689.8 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 20,00
+p1 y  750.4 | Müşteri Limiti: 20.000,00 TL Asgari Ödeme Oranı: %20,00
+p1 y  761.1 | Kullanılabilir Müşteri Limiti: 63,93 TL Nakit Çekme Limiti: 10.000,00 TL
+p1 y  771.8 | Toplam Kart Limiti: 20.000,00 TL Kullanılabilir Nakit Çekme Limiti: 63,93 TL
+p1 y  782.5 | Toplam Kullanılabilir Kart Limiti: 63,93 TL
+p1 y  793.1 | Kredi Kartınızın asgari ödeme tutarı son ödeme tarihinde ödenmediği takdirde, kartınızın gecikmeye girmemesi adına cari hesabınızın müsait olması halinde , hesabınızdan tahsilat yapılacaktır.
+p1 y  806.4 | XXXXXXXXX X XXXXX
+p1 y  821.0 | isbank.com.tr/0 850 724 0 724 Hesap Özetiniz ile ilgili açıklamalar maximumgenc.com.tr
+p1 y  837.0 | Sayfa 1 / 4
+p2 y  125.6 | İŞLEM
+p2 y  136.3 | TARİHİ AÇIKLAMA TUTAR TAKSİT BİLGİSİ MAXIPUAN
+p2 y  146.9 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p2 y  158.5 | 17/06/2026 TRENDYOL YEMEK ISTANBUL TR 444,99
+p2 y  170.1 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p2 y  181.8 | 17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 13,00
+p2 y  193.4 | 17/06/2026 TKPAY/AJET HAVA TASIMAC ISTANBUL TR 2.324,32 0,23
+p2 y  205.0 | 17/06/2026 SOSA GRUP GIDA INSAAT VANKARA TR 255,00
+p2 y  216.6 | 18/06/2026 GAZİANTEPLİ KEBAPÇI ERKANKARA TR 1.100,00 0,11
+p2 y  228.2 | 18/06/2026 KAFE 9 ANKARA TR 190,00
+p2 y  239.9 | 18/06/2026 KAFE 9 ANKARA TR 130,00
+p2 y  251.5 | 19/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p2 y  263.1 | 19/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR 30,00
+p2 y  274.7 | 19/06/2026 HALKÖDE ÖD/ÇATI CAFE ANKARA TR 329,00
+p2 y  286.4 | 19/06/2026 CADDE MARKET ANKARA TR 230,00
+p2 y  298.0 | 19/06/2026 SBUX ANK ANKARA 1071 CU ANKARA TR 185,00 0,02
+p2 y  309.6 | 19/06/2026 TAKSİDE POS İSTANBUL TR 222,00
+p2 y  321.2 | 19/06/2026 TRENDYOL YEMEK ISTANBUL TR 470,00
+p2 y  332.8 | 20/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -350,00
+p2 y  344.5 | 20/06/2026 EGO KART SANAL ANKARA TU 100,00
+p2 y  356.1 | 20/06/2026 EATBOX GIDA TİCARET MERSİN TR 50,00
+p2 y  367.7 | 20/06/2026 NIKE RETAIL TK BOLU TR 1.152,84 3/3 taksidi (3.458,50)
+p2 y  379.3 | 21/06/2026 TAKSİDE POS-MAXİPUAN İLAVE:0,22 0,22
+p2 y  390.9 | 23/06/2026 TKPAY/AJET HAVA TASIMAC ISTANBUL TR 4.006,25 0,40
+p2 y  402.6 | 24/06/2026 SPOTİFY P43DE5E9FB STOCKHOLM SE 55,00
+p2 y  414.2 | 24/06/2026 GUNGOR ECZANESI ADANA TU 118,47
+p2 y  425.8 | 24/06/2026 TRENDYOL YEMEK ISTANBUL TR 594,99
+p2 y  437.4 | 25/06/2026 HAVEN PORT TOBACCO MERSIN TR 170,00
+p2 y  449.1 | 25/06/2026 HAVEN PORT TOBACCO MERSIN TR 220,00
+p2 y  460.7 | 25/06/2026 IYZICO/ISTANBULKART.IST ISTANBUL TR 105,00 0,01
+p2 y  472.3 | 26/06/2026 ARDEŞLER TURZ.İNŞ.VE GIİSTANBUL TR 250,00
+p2 y  483.9 | 26/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -8.500,00
+p2 y  495.6 | 26/06/2026 FLYPEGASUS PGS4 PGS######### 6.721,00 1,68
+p2 y  507.2 | 26/06/2026 H&M OZDILEK CENTER AVM ISTANBUL TR 1.778,99 4,45
+p2 y  518.8 | 27/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -5.000,00
+p2 y  530.4 | 27/06/2026 IYZICO/ISTANBULKART.IST ISTANBUL TR 508,00 0,05
+p2 y  542.0 | 27/06/2026 BASAK TURIZM TIC. VE SAISTANBUL TU 1.260,00 0,12
+p2 y  553.7 | 28/06/2026 ARDEŞLER TURZ.İNŞ-MAXİPUAN İLAVE:0,25 0,25
+p2 y  565.3 | 29/06/2026 WWW. GIB.GOV.TR ADANA TR 1.250,00 0,12
+p2 y  576.9 | 29/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -5.000,00
+p2 y  588.5 | 30/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -8.000,00
+p2 y  600.1 | 30/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -2.000,00
+p2 y  611.8 | 30/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -10.000,00
+p2 y  623.4 | 30/06/2026 FLYPEGASUS PGS4 PGS######### 7.949,00 1,99
+p2 y  635.0 | 30/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -200,00
+p2 y  646.6 | 01/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -5.000,00
+p2 y  658.3 | 01/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -10.000,00
+p2 y  669.9 | 01/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -5.000,00
+p2 y  681.5 | 01/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -3.000,00
+p2 y  693.1 | 02/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -1.000,00
+p2 y  704.8 | 03/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -8.000,00
+p2 y  716.4 | 04/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -8.000,00
+p2 y  728.0 | 05/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -2.300,00
+p2 y  739.6 | 05/07/2026 VIA PIETRO COLLETTA 15 NAPOLI IT 2.851,09
+p2 y  751.2 | 05/07/2026 NAKİT AVANS ÜCRETİ 32,57
+p2 y  762.9 | 06/07/2026 FLYPEGASUS PGS4 PGS######### -322,00 -0,08
+p2 y  774.5 | 07/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -1.000,00
+p2 y  806.4 | XXXXXXXXX X XXXXX
+p2 y  837.0 | Sayfa 2 / 4
+p3 y  125.6 | İŞLEM
+p3 y  136.3 | TARİHİ AÇIKLAMA TUTAR TAKSİT BİLGİSİ MAXIPUAN
+p3 y  146.9 | 07/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -100,00
+p3 y  158.5 | 08/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -3.000,00
+p3 y  170.1 | 08/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -2.504,00
+p3 y  181.8 | 08/07/2026 URART GÜMRÜKSÜZ MAĞAZA İSTANBUL TR 1.986,01 0,19
+p3 y  193.4 | 08/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF -1.000,00
+p3 y  205.0 | 08/07/2026 URART GÜMRÜKSÜZ MAĞAZA İSTANBUL TR 3.500,00 0,35
+p3 y  223.2 | SANAL KART NO: 424242 **** **** 0004 XXXXXXXXXXXXXXXX
+p3 y  232.7 | 04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE 17,99
+p3 y  244.3 | 04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE 219,99
+p3 y  256.0 | 04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE 1.999,99 0,19
+p3 y  267.6 | 04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE 179,99
+p3 y  279.2 | 04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE 259,00
+p3 y  290.8 | *** ÖDEMELERINIZ IÇIN TESEKKÜR EDERIZ ***
+p3 y  302.4 | AYLIK TAKSİTLİ BORÇ TOPLAMI: 1.152,84
+p3 y  312.0 | KALAN TAKSİTLİ BORÇ TOPLAMI: 0,00
+p3 y  324.9 | TOPLAM +43.277,54 TL 10,33 TL
+p3 y  339.0 | MESAJINIZ VAR
+p3 y  360.8 | Bu bildirim Sözleşme değişikliği hükmündedir.
+p3 y  385.1 | Değerli müşterimiz Kredi Kartı Sözleşmemizin C.TANIMLAR başlığı
+p3 y  406.5 | ve J.6'ıncı maddesi aşağıdaki kapsamda güncellenmiştir.
+p3 y  430.7 | C. TANIMLAR
+p3 y  455.0 | Ödül Uygulaması: Kart Hamili'nin/Ek Kart Hamili'nin, gerek Banka
+p3 y  476.4 | tarafından yetkilendirilen veya yetkilendirilecek üye işyerlerinde
+p3 y  497.8 | gerekse uluslararası kart kuruluşlarından lisans almış banka ve
+p3 y  519.2 | finansal kuruluşlarla anlaşmalı üye işyerlerinden yapacağı alışveriş
+p3 y  540.6 | işlemleri ya da kartın belirli bir süre açık kalması karşılığında, ödül
+p3 y  562.0 | ve/veya indirim ve/veya MaxiPuan ve/veya MaxiMil kazanmasını
+p3 y  583.4 | sağlayan, usul ve esasları, uygulama şartları, devamlılığı ve süresi
+p3 y  604.8 | Banka tarafından belirlenen ve Banka'ya ait internet siteleri, kredi
+p3 y  626.2 | kartı hesap özetleri, televizyon, gazete, dergi, broşür, bildiri vb.
+p3 y  647.6 | mecralarda duyurulan bütün uygulamaları,
+p3 y  671.8 | J. ÖDÜL UYGULAMASINA İLİŞKİN DÜZENLEMELER
+p3 y  806.4 | XXXXXXXXX X XXXXX
+p3 y  837.0 | Sayfa 3 / 4
+p4 y  137.0 | J.6."Banka tarafından belirlenen veya işbu Sözleşme'de belirtilen
+p4 y  158.4 | nitelikteki işlemler sonucunda kazanacağı ödül, MaxiPuanların ve
+p4 y  179.8 | MaxiMillerin, söz konusu işlemlerin iadesi ya da iptali halinde ya da
+p4 y  201.2 | kartın belirli bir süre açık kalmasına yönelik taahhüdün yerine
+p4 y  222.6 | getirilememesi durumunda, iptal edileceğini, toplam ödül, MaxiPuan
+p4 y  244.0 | veya MaxiMil tutarından mahsuba Banka'nın yetkili olduğunu, söz
+p4 y  265.4 | konusu ödül, MaxiPuanların veya MaxiMillerin kullanılmış olması
+p4 y  286.8 | veya toplam ödül, MaxiPuan veya MaxiMil tutarının mahsup edilecek
+p4 y  308.2 | olan ödül, MaxiPuan veya MaxiMil tutarından az olması durumunda
+p4 y  329.6 | bu ödül, MaxiPuan veya MaxiMile karşılık gelen bedelin, kredi
+p4 y  351.0 | kartına borç kaydedilebileceğini, bu hususta Banka'dan herhangi bir
+p4 y  372.4 | hak ve alacak talebinde bulunmayacağını , söz konusu ödül veya
+p4 y  393.8 | MaxiPuana karşılık gelen bedelin kredi kartına borç kaydedilmemesi
+p4 y  415.2 | durumunda müşteri numarası altında tanımlı tüm hesaplarından
+p4 y  436.6 | tahsil edileceğini, bu hususta Banka'dan herhangi bir hak ve alacak
+p4 y  458.0 | talebinde bulunmayacağını, müşteri numarası altında tanımlı olan
+p4 y  479.4 | herhangi bir hesaptan söz konusu bedelin tahsil edilememesi
+p4 y  500.8 | durumunda, söz konusu bedele tahsil edilmeyen süre zarfında kredi
+p4 y  522.2 | kartı akdi faiz oranı üzerinden günlük faiz işletileceğini ve ilgili yasal
+p4 y  543.6 | sürenin sonunda kendisi hakkında yasal yollara başvurulacağını veya
+p4 y  565.0 | takip yapılacağını kabul eder."
+p4 y  806.4 | XXXXXXXXX X XXXXX
+p4 y  837.0 | Sayfa 4 / 4

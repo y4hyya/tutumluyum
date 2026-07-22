@@ -1,0 +1,494 @@
+{"str":"KREDİ KARTI HESAP ÖZETİ","x":243.42,"y":88.15,"width":128.27,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Müşteri Numarası","x":308,"y":116.29,"width":68,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":376,"y":116.29,"width":77.97,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"00*****00","x":453.97,"y":116.29,"width":45.04,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Kart Numarası:","x":308,"y":127.31,"width":58.51,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":366.51,"y":127.31,"width":87.46,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"424242 ******** 0002","x":453.97,"y":127.31,"width":80.06,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"ÖĞRENCİ MAXIMUM GENÇ VİSA Hesap Özetiniz","x":308,"y":138.33,"width":194.71,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Hesap Kesim Tarihi:","x":308,"y":153.79,"width":75.91,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":383.91,"y":153.79,"width":70.06,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"10.07.2026","x":453.97,"y":153.79,"width":45.04,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXX XXXXX XXXX XXXXX","x":56.14,"y":155.98,"width":103.43,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20.07.2026","x":453.97,"y":165.62,"width":45.04,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Son Ödeme Tarihi:","x":308,"y":165.95,"width":77.53,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":385.53,"y":165.95,"width":68.44,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"+43.277,54 TL","x":453.97,"y":177.46,"width":60.24,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Hesap Özeti Borcu:","x":308,"y":177.78,"width":79.51,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":387.51,"y":177.78,"width":66.46,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXXXXXX XXXXXXXXX XXXXX XXXX XXXXXX","x":56.14,"y":183.33,"width":182.15,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"+**.**0,00 TL","x":453.97,"y":189.29,"width":60.24,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Ödenmesi Gereken Asgari Tutar:","x":308,"y":189.62,"width":136.55,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":444.55,"y":189.62,"width":9.42,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXXXXXX XXXXXXXXX XXXXX XXXX XXXXXX X","x":56.14,"y":194.03,"width":191.15,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Bir Sonraki Hesap Kesim Tarihi:","x":308,"y":199.99,"width":121.49,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":429.49,"y":199.99,"width":24.48,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"10.08.2026","x":453.97,"y":199.99,"width":45.04,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXX XXX X XX XX X XXX X XXXXXX XX XXXXXXX","x":56.14,"y":204.73,"width":193.09,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Bir Sonraki Son Ödeme Tarihi:","x":308,"y":210.69,"width":114.06,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":422.06,"y":210.69,"width":31.91,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20.08.2026","x":453.97,"y":210.69,"width":45.04,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXXXX XXXXX","x":56.14,"y":215.43,"width":57.84,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Toplam MaxiPuan:","x":308,"y":221.4,"width":71.39,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":379.39,"y":221.4,"width":74.58,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"628,36 TL","x":453.97,"y":221.4,"width":40.23,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Son Ödeme Tarihi: 20/07/2026","x":173,"y":241.16,"width":103.12,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"!\u0001","x":56.14,"y":251.41,"width":13.1,"height":5,"pageIndex":0,"fontName":"g_d0_f2","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":69.24,"y":251.41,"width":6.55,"height":0,"pageIndex":0,"fontName":"g_d0_f2","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":95.43,"y":251.41,"width":6.55,"height":0,"pageIndex":0,"fontName":"g_d0_f2","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":145.95,"y":251.41,"width":6.55,"height":0,"pageIndex":0,"fontName":"g_d0_f2","pageWidth":595.28,"pageHeight":841.89}
+{"str":"V","x":163,"y":252.74,"width":4.67,"height":7,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Alışveriş","x":153.47,"y":275.03,"width":35.56,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Nakit Çekme","x":257.06,"y":275.03,"width":53.88,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Alışveriş Gecikme","x":360.05,"y":275.03,"width":73.89,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Nakit Gecikme","x":479.63,"y":275.03,"width":61.66,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Faiz Oranı","x":149.46,"y":286.92,"width":43.57,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Faiz Oranı","x":262.21,"y":286.92,"width":43.57,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Faizi Oranı","x":373.82,"y":286.92,"width":46.35,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Faiz Oranı","x":488.68,"y":286.92,"width":43.57,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Aylık","x":48.19,"y":306.4,"width":21.67,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":69.86,"y":306.4,"width":76.32,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%3,25","x":146.17,"y":309.27,"width":50.15,"height":18,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":196.32,"y":309.27,"width":62.6,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%4,25","x":258.92,"y":309.27,"width":50.15,"height":18,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":309.07,"y":309.27,"width":62.85,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%3,55","x":371.92,"y":309.27,"width":50.15,"height":18,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":422.07,"y":309.27,"width":63.32,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%4,55","x":485.39,"y":309.27,"width":50.15,"height":18,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Yıllık","x":48.19,"y":327.81,"width":22.79,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":70.98,"y":327.81,"width":70.19,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%39,00","x":141.17,"y":330.67,"width":60.16,"height":18,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":201.33,"y":330.67,"width":52.59,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%51,00","x":253.92,"y":330.67,"width":60.16,"height":18,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":314.08,"y":330.67,"width":52.84,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%42,60","x":366.92,"y":330.67,"width":60.16,"height":18,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":427.08,"y":330.67,"width":53.31,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%54,60","x":480.39,"y":330.67,"width":60.16,"height":18,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"İŞLEM","x":58.2,"y":354.68,"width":27.53,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TARİHİ","x":58.2,"y":365.38,"width":30.4,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":88.6,"y":365.38,"width":47.52,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"AÇIKLAMA","x":136.12,"y":365.38,"width":46.32,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":182.44,"y":365.38,"width":217.63,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TUTAR","x":400.08,"y":365.38,"width":28.3,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.37,"y":365.38,"width":20.06,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TAKSİT BİLGİSİ MAXIPUAN","x":448.43,"y":365.38,"width":118.5,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"******** BİR ÖNCEKİ HESAP ÖZETİ BAKİYENİZ ***","x":48.19,"y":378.09,"width":173.86,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":222.04,"y":378.09,"width":179.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"9.162,74","x":401.21,"y":378.09,"width":27.17,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"10/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":387.6,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.47,"y":387.6,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"13,00","x":410.62,"y":387.6,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"11/06/2026 MOKA UNITED/YEMEKSEPETI ISTANBUL TR","x":61.31,"y":399.22,"width":185.21,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":246.52,"y":399.22,"width":160.22,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"300,00","x":406.74,"y":399.22,"width":21.63,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.37,"y":399.22,"width":122.7,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,03","x":551.08,"y":399.22,"width":13.87,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"11/06/2026 X CORP. PAID FEATURES ABOUT.X.COM TXUS","x":61.31,"y":410.84,"width":188.05,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":249.37,"y":410.84,"width":157.38,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"150,00","x":406.74,"y":410.84,"width":21.63,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"12/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":422.47,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":422.47,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.62,"y":422.47,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":434.09,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":434.09,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"10,00","x":410.62,"y":434.09,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":445.71,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":445.71,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.62,"y":445.71,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":457.33,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":457.33,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"60,00","x":410.62,"y":457.33,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":468.95,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":468.95,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.62,"y":468.95,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"13/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":480.58,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":480.58,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"15,00","x":410.62,"y":480.58,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"14/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.31,"y":492.2,"width":212.5,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.81,"y":492.2,"width":129.13,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-500,00","x":402.94,"y":492.2,"width":25.43,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"14/06/2026 TRENDYOL YEMEK ISTANBUL TR","x":61.31,"y":503.82,"width":149.51,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":210.83,"y":503.82,"width":195.92,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"286,99","x":406.74,"y":503.82,"width":21.63,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"14/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":515.44,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":515.44,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.62,"y":515.44,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"15/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.31,"y":527.06,"width":212.5,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.81,"y":527.06,"width":123.03,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-8.662,74","x":396.84,"y":527.06,"width":31.53,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"15/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":538.69,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":538.69,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.62,"y":538.69,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"15/06/2026 TRENDYOL YEMEK ISTANBUL TR","x":61.31,"y":550.31,"width":149.51,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":210.83,"y":550.31,"width":195.92,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"374,99","x":406.74,"y":550.31,"width":21.63,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"16/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":561.93,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":561.93,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"60,00","x":410.62,"y":561.93,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"16/06/2026 KAFE 9 ANKARA TR","x":61.31,"y":573.55,"width":104.78,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":166.09,"y":573.55,"width":240.66,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"275,00","x":406.74,"y":573.55,"width":21.63,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"16/06/2026 KAMPUS KIRTASIYE VE HED ANKARA TR","x":61.31,"y":585.17,"width":175.6,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.91,"y":585.17,"width":169.83,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"229,00","x":406.74,"y":585.17,"width":21.63,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"16/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":596.8,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":596.8,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.62,"y":596.8,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"16/06/2026 SIS GIDA TUR.ODTU 8.YUR ANKARA TR","x":61.31,"y":608.42,"width":165.91,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":227.22,"y":608.42,"width":179.53,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"410,00","x":406.74,"y":608.42,"width":21.63,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":620.04,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":620.04,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"60,00","x":410.62,"y":620.04,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":631.66,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":631.66,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"60,00","x":410.62,"y":631.66,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":643.29,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":643.29,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.62,"y":643.29,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":654.91,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":654.91,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"35,00","x":410.62,"y":654.91,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":666.53,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":666.53,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"50,00","x":410.62,"y":666.53,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":678.15,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":678.15,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.62,"y":678.15,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Belge Numarası: 143 - #########","x":17.73,"y":680.25,"width":84.07,"height":5.5,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":689.77,"width":175.15,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.46,"y":689.77,"width":174.16,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20,00","x":410.62,"y":689.77,"width":17.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Müşteri Limiti:","x":48.19,"y":750.41,"width":50.5,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":98.69,"y":750.41,"width":125.71,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Asgari Ödeme Oranı:","x":353.32,"y":750.41,"width":68.9,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":422.22,"y":750.41,"width":114.63,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20.000,00 TL","x":224.41,"y":750.77,"width":52.74,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":277.15,"y":750.77,"width":76.18,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"%20,00","x":536.85,"y":750.77,"width":30.08,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Kullanılabilir Müşteri Limiti:","x":48.19,"y":761.11,"width":96.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":144.93,"y":761.11,"width":96.98,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Nakit Çekme Limiti:","x":353.32,"y":761.11,"width":67.83,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":421.15,"y":761.11,"width":93.03,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"63,93 TL","x":241.92,"y":761.47,"width":35.23,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":277.15,"y":761.47,"width":76.18,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"10.000,00 TL","x":514.19,"y":761.47,"width":52.74,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Toplam Kart Limiti:","x":48.19,"y":771.82,"width":66.75,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":114.94,"y":771.82,"width":109.46,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Kullanılabilir Nakit Çekme Limiti:","x":353.32,"y":771.82,"width":114.07,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":467.39,"y":771.82,"width":64.31,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20.000,00 TL","x":224.4,"y":772.17,"width":52.74,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":277.14,"y":772.17,"width":76.18,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"63,93 TL","x":531.7,"y":772.17,"width":35.23,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Toplam Kullanılabilir Kart Limiti:","x":48.19,"y":782.52,"width":112.99,"height":8,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":161.18,"y":782.52,"width":80.74,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"63,93 TL","x":241.92,"y":782.88,"width":35.23,"height":9,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Kredi Kartınızın asgari ödeme tutarı son ödeme tarihinde ödenmediği takdirde, kartınızın gecikmeye girmemesi adına cari hesabınızın müsait olması halinde , hesabınızdan tahsilat yapılacaktır.","x":48.19,"y":793.14,"width":518.49,"height":6.5,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXXXXXXXX X XXXXX","x":582.22,"y":806.44,"width":52.04,"height":6,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Hesap Özetiniz ile ilgili açıklamalar","x":217.28,"y":820.98,"width":158.55,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"isbank.com.tr/0 850 724 0 724","x":48.19,"y":821.37,"width":139.53,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":187.72,"y":821.37,"width":280.28,"height":0,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"maximumgenc.com.tr","x":468,"y":821.37,"width":94.68,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Sayfa 1 / 4","x":521.97,"y":836.99,"width":45.09,"height":10,"pageIndex":0,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"İŞLEM","x":58.2,"y":125.59,"width":27.53,"height":9,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TARİHİ","x":58.2,"y":136.29,"width":30.4,"height":9,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":88.6,"y":136.29,"width":47.52,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"AÇIKLAMA","x":136.12,"y":136.29,"width":46.32,"height":9,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":182.45,"y":136.29,"width":217.63,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TUTAR","x":400.08,"y":136.29,"width":28.3,"height":9,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":136.29,"width":20.06,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TAKSİT BİLGİSİ MAXIPUAN","x":448.43,"y":136.29,"width":118.5,"height":9,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":146.89,"width":175.16,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.47,"y":146.89,"width":174.16,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.63,"y":146.89,"width":17.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 TRENDYOL YEMEK ISTANBUL TR","x":61.31,"y":158.51,"width":149.52,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":210.83,"y":158.51,"width":195.92,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"444,99","x":406.75,"y":158.51,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":170.13,"width":175.16,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.47,"y":170.13,"width":174.16,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.63,"y":170.13,"width":17.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.31,"y":181.76,"width":175.16,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.47,"y":181.76,"width":174.16,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"13,00","x":410.63,"y":181.76,"width":17.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 TKPAY/AJET HAVA TASIMAC ISTANBUL TR","x":61.31,"y":193.38,"width":179.96,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":241.27,"y":193.38,"width":159.94,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"2.324,32","x":401.21,"y":193.38,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":193.38,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,23","x":551.08,"y":193.38,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17/06/2026 SOSA GRUP GIDA INSAAT VANKARA TR","x":61.31,"y":205,"width":167.45,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":228.77,"y":205,"width":177.98,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"255,00","x":406.75,"y":205,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"18/06/2026 GAZİANTEPLİ KEBAPÇI ERKANKARA TR","x":61.32,"y":216.62,"width":173.24,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":234.56,"y":216.62,"width":166.65,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1.100,00","x":401.21,"y":216.62,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":216.62,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,11","x":551.08,"y":216.62,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"18/06/2026 KAFE 9 ANKARA TR","x":61.32,"y":228.24,"width":104.78,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":166.09,"y":228.24,"width":240.66,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"190,00","x":406.75,"y":228.24,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"18/06/2026 KAFE 9 ANKARA TR","x":61.32,"y":239.87,"width":104.78,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":166.09,"y":239.87,"width":240.66,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"130,00","x":406.75,"y":239.87,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"19/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.32,"y":251.49,"width":175.16,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.47,"y":251.49,"width":174.16,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.63,"y":251.49,"width":17.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"19/06/2026 OTOMATCI ANKARA OTOMAT ANKARA TR","x":61.32,"y":263.11,"width":175.16,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.47,"y":263.11,"width":174.16,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30,00","x":410.63,"y":263.11,"width":17.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"19/06/2026 HALKÖDE ÖD/ÇATI CAFE ANKARA TR","x":61.32,"y":274.73,"width":160.7,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":222.01,"y":274.73,"width":184.74,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"329,00","x":406.75,"y":274.73,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"19/06/2026 CADDE MARKET ANKARA TR","x":61.32,"y":286.35,"width":134.99,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":196.31,"y":286.35,"width":210.44,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"230,00","x":406.75,"y":286.35,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"19/06/2026 SBUX ANK ANKARA 1071 CU ANKARA TR","x":61.32,"y":297.98,"width":174.71,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":236.03,"y":297.98,"width":170.73,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"185,00","x":406.75,"y":297.98,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":297.98,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,02","x":551.09,"y":297.98,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"19/06/2026 TAKSİDE POS İSTANBUL TR","x":61.32,"y":309.6,"width":128.71,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":190.03,"y":309.6,"width":216.72,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"222,00","x":406.75,"y":309.6,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"19/06/2026 TRENDYOL YEMEK ISTANBUL TR","x":61.32,"y":321.22,"width":149.52,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":210.83,"y":321.22,"width":195.92,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"470,00","x":406.75,"y":321.22,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":332.84,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":332.84,"width":129.13,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-350,00","x":402.95,"y":332.84,"width":25.43,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20/06/2026 EGO KART SANAL ANKARA TU","x":61.32,"y":344.46,"width":139.08,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":200.4,"y":344.46,"width":206.35,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"100,00","x":406.75,"y":344.46,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20/06/2026 EATBOX GIDA TİCARET MERSİN TR","x":61.32,"y":356.09,"width":155.18,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":216.5,"y":356.09,"width":194.13,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"50,00","x":410.63,"y":356.09,"width":17.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"20/06/2026 NIKE RETAIL TK BOLU TR","x":61.32,"y":367.71,"width":124.22,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":185.53,"y":367.71,"width":215.68,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1.152,84","x":401.21,"y":367.71,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":367.71,"width":22.72,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"3/3 taksidi (3.458,50)","x":451.1,"y":367.71,"width":62.35,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"21/06/2026 TAKSİDE POS-MAXİPUAN İLAVE:0,22","x":61.32,"y":379.33,"width":160.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":222.06,"y":379.33,"width":329.02,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,22","x":551.08,"y":379.33,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"23/06/2026 TKPAY/AJET HAVA TASIMAC ISTANBUL TR","x":61.32,"y":390.95,"width":179.96,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":241.28,"y":390.95,"width":159.94,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"4.006,25","x":401.21,"y":390.95,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":390.95,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,40","x":551.09,"y":390.95,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"24/06/2026 SPOTİFY P43DE5E9FB STOCKHOLM SE","x":61.32,"y":402.57,"width":164.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":226.07,"y":402.57,"width":184.56,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"55,00","x":410.63,"y":402.57,"width":17.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"24/06/2026 GUNGOR ECZANESI ADANA TU","x":61.32,"y":414.2,"width":141.39,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":202.7,"y":414.2,"width":204.05,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"118,47","x":406.75,"y":414.2,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"24/06/2026 TRENDYOL YEMEK ISTANBUL TR","x":61.32,"y":425.82,"width":149.52,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":210.84,"y":425.82,"width":195.92,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"594,99","x":406.75,"y":425.82,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"25/06/2026 HAVEN PORT TOBACCO MERSIN TR","x":61.32,"y":437.44,"width":155.2,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":216.52,"y":437.44,"width":190.23,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"170,00","x":406.75,"y":437.44,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"25/06/2026 HAVEN PORT TOBACCO MERSIN TR","x":61.32,"y":449.06,"width":155.2,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":216.52,"y":449.06,"width":190.23,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"220,00","x":406.75,"y":449.06,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"25/06/2026 IYZICO/ISTANBULKART.IST ISTANBUL TR","x":61.32,"y":460.69,"width":174.08,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":235.4,"y":460.69,"width":171.36,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"105,00","x":406.75,"y":460.69,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":460.69,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,01","x":551.09,"y":460.69,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"26/06/2026 ARDEŞLER TURZ.İNŞ.VE GIİSTANBUL TR","x":61.32,"y":472.31,"width":173.37,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":234.69,"y":472.31,"width":172.06,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"250,00","x":406.75,"y":472.31,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"26/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":483.93,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":483.93,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-8.500,00","x":396.85,"y":483.93,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"26/06/2026 FLYPEGASUS PGS4 PGS#########","x":61.32,"y":495.55,"width":151.8,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":213.12,"y":495.55,"width":188.1,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"6.721,00","x":401.21,"y":495.55,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":495.55,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1,68","x":551.09,"y":495.55,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"26/06/2026 H&M OZDILEK CENTER AVM ISTANBUL TR","x":61.32,"y":507.17,"width":180.98,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":242.3,"y":507.17,"width":158.91,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1.778,99","x":401.22,"y":507.17,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":507.17,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"4,45","x":551.09,"y":507.17,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"27/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":518.8,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":518.8,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-5.000,00","x":396.85,"y":518.8,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"27/06/2026 IYZICO/ISTANBULKART.IST ISTANBUL TR","x":61.32,"y":530.42,"width":174.08,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":235.4,"y":530.42,"width":171.36,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"508,00","x":406.75,"y":530.42,"width":21.63,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":530.42,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,05","x":551.09,"y":530.42,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"27/06/2026 BASAK TURIZM TIC. VE SAISTANBUL TU","x":61.32,"y":542.04,"width":171.36,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":232.68,"y":542.04,"width":168.54,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1.260,00","x":401.22,"y":542.04,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":542.04,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,12","x":551.09,"y":542.04,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"28/06/2026 ARDEŞLER TURZ.İNŞ-MAXİPUAN İLAVE:0,25","x":61.32,"y":553.66,"width":186.9,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":248.22,"y":553.66,"width":302.87,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,25","x":551.09,"y":553.66,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"29/06/2026 WWW. GIB.GOV.TR ADANA TR","x":61.32,"y":565.28,"width":138.01,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":199.33,"y":565.28,"width":201.88,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1.250,00","x":401.21,"y":565.28,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":565.28,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,12","x":551.09,"y":565.28,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"29/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":576.9,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":576.9,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-5.000,00","x":396.85,"y":576.9,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":588.53,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":588.53,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-8.000,00","x":396.85,"y":588.53,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":600.15,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":600.15,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-2.000,00","x":396.85,"y":600.15,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":611.77,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":611.77,"width":118.86,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-10.000,00","x":392.69,"y":611.77,"width":35.7,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30/06/2026 FLYPEGASUS PGS4 PGS#########","x":61.32,"y":623.39,"width":151.8,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":213.12,"y":623.39,"width":188.1,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"7.949,00","x":401.21,"y":623.39,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":623.39,"width":122.7,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1,99","x":551.09,"y":623.39,"width":13.87,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"30/06/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":635.02,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":635.02,"width":129.13,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-200,00","x":402.96,"y":635.02,"width":25.43,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"01/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":646.64,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":646.64,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-5.000,00","x":396.85,"y":646.64,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"01/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":658.26,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":658.26,"width":118.86,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-10.000,00","x":392.69,"y":658.26,"width":35.7,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"01/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":669.88,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":669.88,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-5.000,00","x":396.85,"y":669.88,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"01/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":681.5,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":681.5,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-3.000,00","x":396.85,"y":681.5,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"02/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":693.13,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":693.13,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-1.000,00","x":396.85,"y":693.13,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"03/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":704.75,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":704.75,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-8.000,00","x":396.85,"y":704.75,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"04/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":716.37,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":716.37,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-8.000,00","x":396.85,"y":716.37,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"05/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":727.99,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":727.99,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-2.300,00","x":396.85,"y":727.99,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"05/07/2026 VIA PIETRO COLLETTA 15 NAPOLI IT","x":61.32,"y":739.61,"width":158.48,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":219.8,"y":739.61,"width":181.41,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"2.851,09","x":401.21,"y":739.61,"width":27.17,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"05/07/2026 NAKİT AVANS ÜCRETİ","x":61.32,"y":751.24,"width":112.86,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":174.18,"y":751.24,"width":236.45,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"32,57","x":410.63,"y":751.24,"width":17.75,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"06/07/2026 FLYPEGASUS PGS4 PGS#########","x":61.32,"y":762.86,"width":151.8,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":213.12,"y":762.86,"width":189.84,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-322,00","x":402.95,"y":762.86,"width":25.43,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":762.86,"width":119.47,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-0,08","x":547.86,"y":762.86,"width":17.1,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"07/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.32,"y":774.48,"width":212.51,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":774.48,"width":123.03,"height":0,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-1.000,00","x":396.85,"y":774.48,"width":31.53,"height":8,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXXXXXXXX X XXXXX","x":582.22,"y":806.44,"width":52.04,"height":6,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Sayfa 2 / 4","x":521.97,"y":836.99,"width":45.09,"height":10,"pageIndex":1,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"İŞLEM","x":58.2,"y":125.59,"width":27.53,"height":9,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TARİHİ","x":58.2,"y":136.29,"width":30.4,"height":9,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":88.6,"y":136.29,"width":47.52,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"AÇIKLAMA","x":136.12,"y":136.29,"width":46.32,"height":9,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":182.45,"y":136.29,"width":217.63,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TUTAR","x":400.08,"y":136.29,"width":28.3,"height":9,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":136.29,"width":20.06,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TAKSİT BİLGİSİ MAXIPUAN","x":448.43,"y":136.29,"width":118.5,"height":9,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"07/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.31,"y":146.89,"width":212.51,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":146.89,"width":129.13,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-100,00","x":402.95,"y":146.89,"width":25.43,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"08/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.31,"y":158.51,"width":212.51,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":158.51,"width":123.03,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-3.000,00","x":396.85,"y":158.51,"width":31.53,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"08/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.31,"y":170.13,"width":212.51,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":170.13,"width":123.03,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-2.504,00","x":396.85,"y":170.13,"width":31.53,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"08/07/2026 URART GÜMRÜKSÜZ MAĞAZA İSTANBUL TR","x":61.31,"y":181.76,"width":186.83,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":248.14,"y":181.76,"width":153.07,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1.986,01","x":401.21,"y":181.76,"width":27.17,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":181.76,"width":122.7,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,19","x":551.08,"y":181.76,"width":13.87,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"08/07/2026 0000-000000 HESAPTAN AKTARIM 0000 İNTERAKTİF","x":61.31,"y":193.38,"width":212.51,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":273.82,"y":193.38,"width":123.03,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"-1.000,00","x":396.85,"y":193.38,"width":31.53,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"08/07/2026 URART GÜMRÜKSÜZ MAĞAZA İSTANBUL TR","x":61.31,"y":205,"width":186.83,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":248.14,"y":205,"width":153.07,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"3.500,00","x":401.21,"y":205,"width":27.17,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":205,"width":122.7,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,35","x":551.08,"y":205,"width":13.87,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"SANAL KART NO: 424242 **** **** 0004 XXXXXXXXXXXXXXXX","x":48.19,"y":223.2,"width":194.52,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE","x":61.31,"y":232.72,"width":159.71,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":221.03,"y":232.72,"width":189.6,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"17,99","x":410.63,"y":232.72,"width":17.75,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE","x":61.31,"y":244.34,"width":159.71,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":221.03,"y":244.34,"width":185.72,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"219,99","x":406.75,"y":244.34,"width":21.63,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE","x":61.31,"y":255.96,"width":159.71,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":221.03,"y":255.96,"width":180.18,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"1.999,99","x":401.21,"y":255.96,"width":27.17,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":255.96,"width":122.7,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"0,19","x":551.08,"y":255.96,"width":13.87,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE","x":61.31,"y":267.58,"width":159.71,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":221.03,"y":267.58,"width":185.72,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"179,99","x":406.75,"y":267.58,"width":21.63,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"04/07/2026 APPLE.COM/BILL APPLE.COM/BIL IE","x":61.31,"y":279.2,"width":159.71,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":221.03,"y":279.2,"width":185.72,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"259,00","x":406.75,"y":279.2,"width":21.63,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"*** ÖDEMELERINIZ IÇIN TESEKKÜR EDERIZ ***","x":100.69,"y":290.83,"width":162.3,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"AYLIK TAKSİTLİ BORÇ TOPLAMI: 1.152,84","x":100.69,"y":302.45,"width":139.11,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"KALAN TAKSİTLİ BORÇ TOPLAMI: 0,00","x":100.69,"y":311.96,"width":126.2,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"+43.277,54","x":380.22,"y":324.91,"width":39.7,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":419.91,"y":324.91,"width":1.94,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TL","x":421.85,"y":324.91,"width":6.52,"height":6,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":428.38,"y":324.91,"width":110.93,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"10,33","x":539.3,"y":324.91,"width":18.88,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":558.19,"y":324.91,"width":1.94,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TL","x":560.13,"y":324.91,"width":6.8,"height":6,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"TOPLAM","x":136.12,"y":325.44,"width":35.86,"height":9.5,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":" ","x":171.98,"y":325.44,"width":208.23,"height":0,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"MESAJINIZ VAR","x":48.19,"y":338.97,"width":61.08,"height":8,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Bu bildirim Sözleşme değişikliği hükmündedir.","x":48.19,"y":360.84,"width":321.25,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Değerli müşterimiz Kredi Kartı Sözleşmemizin C.TANIMLAR başlığı","x":48.19,"y":385.08,"width":478.09,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"ve J.6'ıncı maddesi aşağıdaki kapsamda güncellenmiştir.","x":48.19,"y":406.48,"width":389.92,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"C. TANIMLAR","x":48.19,"y":430.72,"width":107.77,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Ödül Uygulaması: Kart Hamili'nin/Ek Kart Hamili'nin, gerek Banka","x":48.19,"y":454.96,"width":467.37,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"tarafından yetkilendirilen veya yetkilendirilecek üye işyerlerinde","x":48.19,"y":476.36,"width":437.81,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"gerekse uluslararası kart kuruluşlarından lisans almış banka ve","x":48.19,"y":497.76,"width":434.91,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"finansal kuruluşlarla anlaşmalı üye işyerlerinden yapacağı alışveriş","x":48.19,"y":519.16,"width":459.79,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"işlemleri ya da kartın belirli bir süre açık kalması karşılığında, ödül","x":48.19,"y":540.56,"width":464.16,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"ve/veya indirim ve/veya MaxiPuan ve/veya MaxiMil kazanmasını","x":48.19,"y":561.97,"width":447.73,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"sağlayan, usul ve esasları, uygulama şartları, devamlılığı ve süresi","x":48.19,"y":583.37,"width":453.06,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Banka tarafından belirlenen ve Banka'ya ait internet siteleri, kredi","x":48.19,"y":604.77,"width":456.24,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"kartı hesap özetleri, televizyon, gazete, dergi, broşür, bildiri vb.","x":48.19,"y":626.17,"width":435.24,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"mecralarda duyurulan bütün uygulamaları,","x":48.19,"y":647.57,"width":296.91,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"J. ÖDÜL UYGULAMASINA İLİŞKİN DÜZENLEMELER","x":48.19,"y":671.81,"width":411.58,"height":18,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXXXXXXXX X XXXXX","x":582.22,"y":806.44,"width":52.04,"height":6,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Sayfa 3 / 4","x":521.97,"y":836.99,"width":45.09,"height":10,"pageIndex":2,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"J.6.\"Banka tarafından belirlenen veya işbu Sözleşme'de belirtilen","x":48.19,"y":137,"width":443.94,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"nitelikteki işlemler sonucunda kazanacağı ödül, MaxiPuanların ve","x":48.19,"y":158.4,"width":455,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"MaxiMillerin, söz konusu işlemlerin iadesi ya da iptali halinde ya da","x":48.19,"y":179.81,"width":470.01,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"kartın belirli bir süre açık kalmasına yönelik taahhüdün yerine","x":48.19,"y":201.21,"width":428.62,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"getirilememesi durumunda, iptal edileceğini, toplam ödül, MaxiPuan","x":48.19,"y":222.61,"width":483.77,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"veya MaxiMil tutarından mahsuba Banka'nın yetkili olduğunu, söz","x":48.19,"y":244.01,"width":457.87,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"konusu ödül, MaxiPuanların veya MaxiMillerin kullanılmış olması","x":48.19,"y":265.41,"width":458.4,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"veya toplam ödül, MaxiPuan veya MaxiMil tutarının mahsup edilecek","x":48.19,"y":286.82,"width":482.43,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"olan ödül, MaxiPuan veya MaxiMil tutarından az olması durumunda","x":48.19,"y":308.22,"width":480.8,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"bu ödül, MaxiPuan veya MaxiMile karşılık gelen bedelin, kredi","x":48.19,"y":329.62,"width":434.98,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"kartına borç kaydedilebileceğini, bu hususta Banka'dan herhangi bir","x":48.19,"y":351.02,"width":467.85,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"hak ve alacak talebinde bulunmayacağını , söz konusu ödül veya","x":48.19,"y":372.42,"width":446.08,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"MaxiPuana karşılık gelen bedelin kredi kartına borç kaydedilmemesi","x":48.19,"y":393.83,"width":475.13,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"durumunda müşteri numarası altında tanımlı tüm hesaplarından","x":48.19,"y":415.23,"width":448.05,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"tahsil edileceğini, bu hususta Banka'dan herhangi bir hak ve alacak","x":48.19,"y":436.63,"width":462.1,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"talebinde bulunmayacağını, müşteri numarası altında tanımlı olan","x":48.19,"y":458.03,"width":455.07,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"herhangi bir hesaptan söz konusu bedelin tahsil edilememesi","x":48.19,"y":479.43,"width":414.62,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"durumunda, söz konusu bedele tahsil edilmeyen süre zarfında kredi","x":48.19,"y":500.84,"width":460.95,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"kartı akdi faiz oranı üzerinden günlük faiz işletileceğini ve ilgili yasal","x":48.19,"y":522.24,"width":473.87,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"sürenin sonunda kendisi hakkında yasal yollara başvurulacağını veya","x":48.19,"y":543.64,"width":472.09,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"takip yapılacağını kabul eder.\"","x":48.18,"y":565.04,"width":208.84,"height":18,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"XXXXXXXXX X XXXXX","x":582.22,"y":806.44,"width":52.04,"height":6,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}
+{"str":"Sayfa 4 / 4","x":521.97,"y":836.99,"width":45.09,"height":10,"pageIndex":3,"fontName":"g_d0_f1","pageWidth":595.28,"pageHeight":841.89}

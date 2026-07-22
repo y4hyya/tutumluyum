@@ -18,3 +18,11 @@ One line per notable decision or dependency not already mandated by the spec.
 - **MIT license** under the repository owner; template license (Expo's) replaced.
 - **`src/types/env.d.ts`** replaces the gitignored generated `expo-env.d.ts` so `tsc --noEmit` passes on a fresh clone.
 - **Fonts are vendored TTFs** in `assets/fonts/` (Archivo Black, Space Mono — both OFL) loaded via `expo-font`; no Google Fonts packages, no runtime fetching.
+
+## İş Bankası format facts (learned from six real statements, not assumed)
+
+- Older statements ship with **`/Rotate 180` pages**; extraction must apply the pdf.js viewport transform or the whole document reads mirrored and bottom-up.
+- A **leading `+` on balance amounts means alacak** (credit in the customer's favor, i.e. negative debt): `Hesap Özeti Borcu: +730,32 TL`. Proven by kuruş-exact reconciliation; transaction rows never use `+`.
+- TUTAR and MAXIPUAN columns both contain `1.234,56`-shaped numbers; only the **column x-position (right-aligned to its header label)** can tell money from loyalty points. Points-only rows (İLAVE / reversals) have no TUTAR value and are excluded from the total.
+- Reconciliation identity: `previousBalance + Σ(transactions) = totalAmount`, where the previous balance is the `BİR ÖNCEKİ HESAP ÖZETİ BAKİYENİZ` row.
+- The right-edge **barcode strip extracts as C0/C1 control-character runs**; both extractors drop control-only items at the source.

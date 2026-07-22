@@ -28,8 +28,14 @@ export interface ParsedStatement {
   dueDate: string | null;
   periodStart: string | null;
   periodEnd: string | null;
-  /** The period total ("Dönem Borcu") as printed on the PDF. */
+  /** The period total ("Hesap Özeti Borcu") as printed on the PDF. */
   totalAmount: Kurus | null;
+  /**
+   * Carry-over from the previous statement ("BİR ÖNCEKİ HESAP ÖZETİ
+   * BAKİYENİZ"). Not a transaction, but required for reconciliation:
+   * previousBalance + Σ(transactions) must equal totalAmount.
+   */
+  previousBalance: Kurus | null;
   minPayment: Kurus | null;
   currency: string;
   transactions: ParsedTransaction[];

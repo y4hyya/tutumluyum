@@ -18,6 +18,7 @@ const EMPTY_PARSE: ParsedStatement = {
   periodStart: null,
   periodEnd: null,
   totalAmount: null,
+  previousBalance: null,
   minPayment: null,
   currency: 'TRY',
   transactions: [],

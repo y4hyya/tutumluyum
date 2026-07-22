@@ -22,6 +22,7 @@ import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from 
 import { basename, join } from 'node:path';
 
 import { groupIntoLines } from '../src/parsers/lines';
+import { foldTurkish } from '../src/parsers/turkish';
 import { TextItem } from '../src/pdf/types';
 
 const PRIVATE_DIR = 'fixtures/private';
@@ -61,10 +62,16 @@ async function extractItems(pdfPath: string, password?: string): Promise<TextIte
     const content = await page.getTextContent();
     for (const raw of content.items as PdfJsTextItem[]) {
       if (typeof raw.str !== 'string' || raw.str.length === 0) continue;
+      // Mirror of extractor.html: drop control-only runs (edge barcodes).
+      if (/^[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]+$/.test(raw.str)) continue;
+      // Mirror of extractor.html: device space via the viewport transform so
+      // /Rotate 180 pages (older İş Bankası statements) read top-down too.
+      const m = pdfjs.Util.transform(viewport.transform, raw.transform) as number[];
+      const left = m[0] < 0 ? m[4] - raw.width : m[4];
       items.push({
         str: raw.str,
-        x: round2(raw.transform[4]),
-        y: round2(viewport.height - raw.transform[5]),
+        x: round2(left),
+        y: round2(m[5]),
         width: round2(raw.width),
         height: round2(raw.height),
         pageIndex: p - 1,
@@ -89,9 +96,11 @@ class Anonymizer {
     iban: 0,
     pan: 0,
     maskedPan: 0,
+    accountRef: 0,
     tckn: 0,
     phone: 0,
     longDigits: 0,
+    scrubbedLines: 0,
   };
 
   constructor(scrubStrings: string[]) {
@@ -148,6 +157,24 @@ class Anonymizer {
       return `${mask}${this.fakeLast4(m)}`;
     });
 
+    // 5b. Digits directly touching a mask run (bank-masked customer/account
+    //     numbers like "47*****25") -> zeros.
+    s = s.replace(/(?<!\d)(\d{1,6})([*Xx•]{3,})(\d{1,6})(?!\d)/g, (_m, lead: string, mask: string, tail: string) => {
+      this.counts.maskedPan++;
+      return `${'0'.repeat(lead.length)}${mask}${'0'.repeat(tail.length)}`;
+    });
+
+    // 5c. Branch-account references ("6011-272357") and account tails after
+    //     AKTARIM ("HESAPTAN AKTARIM 4229") -> zeros.
+    s = s.replace(/(?<!\d)\d{4}-\d{6}(?!\d)/g, () => {
+      this.counts.accountRef++;
+      return '0000-000000';
+    });
+    s = s.replace(/\bAKTARIM (\d{4})\b/g, () => {
+      this.counts.accountRef++;
+      return 'AKTARIM 0000';
+    });
+
     // 6. TCKN (11 digits, first digit non-zero) -> stars.
     s = s.replace(/(?<!\d)[1-9]\d{10}(?!\d)/g, () => {
       this.counts.tckn++;
@@ -173,6 +200,61 @@ class Anonymizer {
 
 function escapeRegExp(s: string): string {
   return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+// ---------------------------------------------------------------------------
+// line-context scrubbing: some PII is only recognizable at line level
+
+const ADDRESS_KEYWORDS =
+  /(MAHALLE|\bMAH\b|SOKAK|SOKAGI|\bSOK\b|CADDE|CADDESI|\bCAD\b|SITESI|\bSITE\b|APARTMAN|\bAPT\b|DAIRE|\bBLOK\b|\bBLO\b|POSTA KODU)/;
+const DATE_START = /^\d{2}[./-]\d{2}[./-]\d{4}/;
+const AMOUNT_ANYWHERE = /\d+,\d{2}/;
+
+/**
+ * Returns the set of items whose text must be fully blanked:
+ * - "SN. NAME SURNAME" / "SAYIN …" cardholder lines
+ * - address lines (keyword match, but never transaction rows)
+ * - "12345 CITY" postal lines
+ * - customer/branch footer lines ("47*****25 - 35460")
+ * - name words trailing a "SANAL KART NO: …" masked number
+ */
+function collectLineScrubs(items: TextItem[]): Set<TextItem> {
+  const scrub = new Set<TextItem>();
+  for (const line of groupIntoLines(items)) {
+    const folded = foldTurkish(line.text);
+    const isTransactionLike = DATE_START.test(folded) || AMOUNT_ANYWHERE.test(folded);
+
+    if (/^(SN[.\s]|SAYIN\s)/.test(folded)) {
+      for (const item of line.items) scrub.add(item);
+      continue;
+    }
+    if (
+      !isTransactionLike &&
+      (ADDRESS_KEYWORDS.test(folded) || /^\d{5} [A-Z ]+$/.test(folded) || /^[A-Z ]+ \d{5}$/.test(folded))
+    ) {
+      for (const item of line.items) scrub.add(item);
+      continue;
+    }
+    // Payment barcode: a long run of single spaced digits.
+    if (/^[\d ]{15,}$/.test(folded) && /\d/.test(folded)) {
+      for (const item of line.items) scrub.add(item);
+      continue;
+    }
+    if (/^[\d*]+ - \d{3,6}$/.test(folded.replace(/\s+/g, ' '))) {
+      for (const item of line.items) scrub.add(item);
+      continue;
+    }
+    if (folded.includes('SANAL KART')) {
+      for (const item of line.items) {
+        const tokens = foldTurkish(item.str).split(/\s+/).filter(Boolean);
+        const nameLike =
+          tokens.length > 0 &&
+          tokens.every((t) => /^[A-Z]{2,}$/.test(t) && !['SANAL', 'KART', 'NO'].includes(t));
+        if (nameLike) scrub.add(item);
+      }
+    }
+  }
+  return scrub;
 }
 
 // ---------------------------------------------------------------------------
@@ -259,8 +341,15 @@ async function main(): Promise<void> {
   }
 
   const anonymizer = new Anonymizer(scrub);
+  const lineScrubs = collectLineScrubs(items);
   const anonymized = items
-    .map((item) => ({ ...item, str: anonymizer.anonymize(item.str) }))
+    .map((item) => {
+      if (lineScrubs.has(item)) {
+        anonymizer.counts.scrubbedLines++;
+        return { ...item, str: item.str.replace(/\S/g, 'X') };
+      }
+      return { ...item, str: anonymizer.anonymize(item.str) };
+    })
     .sort((a, b) => a.pageIndex - b.pageIndex || a.y - b.y || a.x - b.x);
 
   mkdirSync(PUBLIC_DIR, { recursive: true });
