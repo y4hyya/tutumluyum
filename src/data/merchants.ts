@@ -248,4 +248,10 @@ export const MERCHANT_SEEDS: MerchantSeed[] = [
   { patterns: ['PASABAHCE'], displayName: 'Paşabahçe', category: 'diger' },
   { patterns: ['PAYPAL'], displayName: 'PayPal', category: 'diger' },
   { patterns: ['GOOGLE'], displayName: 'Google', category: 'diger' },
+
+  // --- statement-internal rows (İş Bankası wording) ------------------------
+  { patterns: ['HESAPTAN AKTARIM'], displayName: 'Hesaptan Ödeme', category: 'diger' },
+  { patterns: ['GECIKME FAIZI'], displayName: 'Gecikme Faizi', category: 'fatura' },
+  { patterns: ['FAIZ TUTARI'], displayName: 'Faiz', category: 'fatura' },
+  { patterns: ['EKSTRENIZDEKI'], displayName: 'Döviz Borcu Karşılığı', category: 'diger' },
 ];

@@ -1,49 +1,22 @@
-import { useRouter } from 'expo-router';
-import { StyleSheet, Text, View } from 'react-native';
+import { Redirect } from 'expo-router';
+import { useEffect, useState } from 'react';
 
-import { Button } from '@/components/ui';
-import { colors, fonts, fontSizes, letterSpacing, spacing } from '@/theme';
+import { getSetting } from '@/db/repos/settings';
 
 export default function Index() {
-  const router = useRouter();
+  const [target, setTarget] = useState<'/onboarding' | '/(tabs)/dashboard' | null>(null);
 
-  return (
-    <View style={styles.root}>
-      <Text style={styles.title}>TUTUMLUYUM</Text>
-      <Text style={styles.subtitle}>Ekstren telefonundan çıkmıyor.</Text>
-      {__DEV__ ? (
-        <Button
-          label="Kitchen Sink"
-          variant="accent"
-          style={styles.devButton}
-          onPress={() => router.push('/dev/kitchen-sink')}
-        />
-      ) : null}
-    </View>
-  );
+  useEffect(() => {
+    let live = true;
+    (async () => {
+      const done = await getSetting('onboarded');
+      if (live) setTarget(done === '1' ? '/(tabs)/dashboard' : '/onboarding');
+    })();
+    return () => {
+      live = false;
+    };
+  }, []);
+
+  if (!target) return null;
+  return <Redirect href={target} />;
 }
-
-const styles = StyleSheet.create({
-  root: {
-    flex: 1,
-    backgroundColor: colors.paper,
-    justifyContent: 'flex-end',
-    padding: spacing.xl,
-    paddingBottom: 64,
-  },
-  title: {
-    fontFamily: fonts.heading,
-    fontSize: fontSizes.big,
-    letterSpacing: letterSpacing.heading,
-    color: colors.ink,
-  },
-  subtitle: {
-    fontFamily: fonts.mono,
-    fontSize: fontSizes.body,
-    color: colors.muted,
-    marginTop: spacing.sm,
-  },
-  devButton: {
-    marginTop: spacing.xl,
-  },
-});

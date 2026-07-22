@@ -83,6 +83,17 @@ export async function statementSpendTotal(statementId: number): Promise<Kurus> {
   return row?.total ?? 0;
 }
 
+/** Positive spending only — the dashboard's "this month" number. Payments
+ *  to the card and refunds are excluded. */
+export async function statementPositiveSpend(statementId: number): Promise<Kurus> {
+  const db = await getDb();
+  const row = await db.getFirstAsync<{ total: Kurus | null }>(
+    'SELECT SUM(amount) AS total FROM transactions WHERE statement_id = ? AND amount > 0',
+    [statementId],
+  );
+  return row?.total ?? 0;
+}
+
 /**
  * Minimal fields for recurrence analysis, across ALL statements. Spend only
  * (amount > 0); the subscription hint is resolved in JS via matchMerchant so
