@@ -84,8 +84,9 @@ export async function statementSpendTotal(statementId: number): Promise<Kurus> {
 }
 
 /**
- * Minimal fields for recurrence analysis, across ALL statements.
- * Joined with the statement so each occurrence knows its period.
+ * Minimal fields for recurrence analysis, across ALL statements. Spend only
+ * (amount > 0); the subscription hint is resolved in JS via matchMerchant so
+ * SQL and analysis never disagree on matching semantics.
  */
 export interface RecurrenceSourceRow {
   merchant_key: string;
@@ -93,15 +94,14 @@ export interface RecurrenceSourceRow {
   txn_date: string;
   amount: Kurus;
   statement_id: number;
-  is_subscription_hint: number;
+  installment_no: number | null;
 }
 
 export async function allForRecurrence(): Promise<RecurrenceSourceRow[]> {
   const db = await getDb();
   return db.getAllAsync<RecurrenceSourceRow>(
     `SELECT t.merchant_key, t.raw_description, t.txn_date, t.amount, t.statement_id,
-            COALESCE((SELECT MAX(m.is_subscription) FROM merchants m
-                      WHERE t.merchant_key LIKE '%' || m.pattern || '%'), 0) AS is_subscription_hint
+            t.installment_no
      FROM transactions t
      WHERE t.amount > 0
      ORDER BY t.txn_date ASC`,
