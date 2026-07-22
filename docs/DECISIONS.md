@@ -2,6 +2,13 @@
 
 One line per notable decision or dependency not already mandated by the spec.
 
+## Analysis
+
+- **Recurrence groups cluster by amount band** (±15% around the running median) within a merchant: one merchant can host several subscriptions (Apple: iCloud + one-off purchases) and FX prices drift. Trade-off: a price jump beyond ±15% (X Corp 75→150 TL) shows as an old inactive group plus a new active one — honest, but two cards.
+- **Group identity is `merchantKey@roundedLira`**, so a drifting price that crosses a whole-lira rounding boundary can re-key the group and reset its user status. Accepted for v1.
+- **Two-occurrence findings require near-identical amounts (≤2%)**: with one interval, regularity proves nothing; without this, any two similar charges ~a month apart at the same merchant masquerade as a subscription.
+- **Installment rows are excluded from recurrence** — a "3/3 taksidi" purchase is indistinguishable from a monthly subscription by cadence and amount alone.
+
 ## Dependencies
 
 - `tsx` (dev): runs TypeScript CLI scripts (`scripts/anonymize.ts`) without a build step.
